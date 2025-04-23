@@ -12,4 +12,4 @@ A simple example of how to request paginated data from an API using Python.  Mad
 
 3. Run the program:
 
-       python greyishGoo.py
+       python apiPaginate.py
